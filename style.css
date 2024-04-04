@@ -1,0 +1,16 @@
+nav {
+    background-color:#6f44b0d5;
+}
+div .original {
+    background-color: #6f44b0d5 !important; 
+}
+div .hero button{
+    background-color: red !important;
+    color: white !important;
+    margin: 4px !important;
+    /* padding-: 10px !important; */
+    width: 225px;
+}
+main {
+    min-height: calc(100vh - 154px);
+}
